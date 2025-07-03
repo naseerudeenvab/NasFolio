@@ -40,9 +40,7 @@ A personal, mobile-friendly trading analysis tool built with Google Apps Script 
 
 ---
 
-**Author:** [Your Name]
-
-**License:** MIT (or your preferred license)
+**Author:** Naseerudeen VAB, deen.naseer@gmail.com
 
 ---
 
